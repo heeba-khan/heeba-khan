@@ -4,6 +4,7 @@
 **heeba-khan/heeba-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on several projects.
 - 🌱 I’m currently learning more about Web Development.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: heebak45@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: An addictive fiction reader with an impeccable ability to escape the reality.
--->
+
